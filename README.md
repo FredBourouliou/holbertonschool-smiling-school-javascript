@@ -1,5 +1,7 @@
 # Holberton Smiling School (Bootstrap Project)
 
+![Fork Duck](images/fork_duck.png)
+
 These group of web pages were coded from scratch with the help of the Boostrap Framework and based on some design models given on Figma.
 
 [Figma Homepage](https://www.figma.com/file/QYQqMYbdpAHL5xTclwJKSI/Homepage)
@@ -75,3 +77,6 @@ The Holberton Smiling School web pages were developed by sections using the Boot
 # Author:
 
 Jhoan Zamora: [jzamora5](https://github.com/jzamora5)
+
+Frederic Bourouliou : https://github.com/FredBourouliou
+
